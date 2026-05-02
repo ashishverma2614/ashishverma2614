@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Ashish 👋
 
-<!--
-**ashishverma2614/ashishverma2614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Automotive Embedded Developer based in Bengaluru.  
+I work on ECU firmware, AUTOSAR BSW integration, and ISO 26262 / ASPICE-aligned development.
 
-Here are some ideas to get you started:
+> *10% programming and 90% debugging.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 📚 Learning Resources I've Built
+
+Interactive HTML slide decks I created while learning — feel free to use them:
+
+| Topic | Live Site | Repo |
+|---|---|---|
+| 🚗 Automotive Ethernet — Learning | [View slides](https://ashishverma2614.github.io/Automotive_Ethernet_Learning/) | [Source](https://github.com/ashishverma2614/Automotive_Ethernet_Learning) |
+| 🚗 Automotive Ethernet — Training | [View slides](https://ashishverma2614.github.io/Automotive-Ethernet-Training-/) | [Source](https://github.com/ashishverma2614/Automotive-Ethernet-Training-) |
+| ⚙️ Classic AUTOSAR — Beginner Overview | [View slides](https://ashishverma2614.github.io/Classic-Autosar-overview-for-beginners/) | [Source](https://github.com/ashishverma2614/Classic-Autosar-overview-for-beginners) |
+
+---
+
+#### 🔧 What I work with
+
+- **MCUs:** NXP S32K3xx, STM32, ARM Cortex-M  
+- **Stack:** Bare-metal C, AUTOSAR Classic, MISRA-C:2012  
+- **Standards:** ISO 26262, ASPICE, CMMI L3  
+- **Tools:** S32 Design Studio, P&E Multilink, GDB
+
+---
+
+📍 Bengaluru, India
