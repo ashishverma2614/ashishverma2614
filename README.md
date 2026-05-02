@@ -11,13 +11,13 @@ I work on ECU firmware, AUTOSAR BSW integration, and ISO 26262 / ASPICE-aligned 
 
 Interactive HTML slide decks I created while learning — feel free to use them:
 
-| Topic | Live Site | Repo |
-|---|---|---|
-| 🚗 Automotive Ethernet — Learning | [View slides](https://ashishverma2614.github.io/Automotive_Ethernet_Learning/) | [Source](https://github.com/ashishverma2614/Automotive_Ethernet_Learning) |
-| 🚗 Automotive Ethernet — Training | [View slides](https://ashishverma2614.github.io/Automotive-Ethernet-Training-/) | [Source](https://github.com/ashishverma2614/Automotive-Ethernet-Training-) |
-| ⚙️ Classic AUTOSAR — Beginner Overview | [View slides](https://ashishverma2614.github.io/Classic-Autosar-overview-for-beginners/) | [Source](https://github.com/ashishverma2614/Classic-Autosar-overview-for-beginners) |
+| Topic | Live Site |
+|---|---|
+| 🚗 Automotive Ethernet — Learning | [View slides](https://ashishverma2614.github.io/Automotive_Ethernet_Learning/) |
+| 🚗 Automotive Ethernet — Training | [View slides](https://ashishverma2614.github.io/Automotive-Ethernet-Training-/) |
+| ⚙️ Classic AUTOSAR — Beginner Overview | [View slides](https://ashishverma2614.github.io/Classic-Autosar-overview-for-beginners/) |
 
----
+--
 
 #### 🔧 What I work with
 
