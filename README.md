@@ -2,7 +2,7 @@
 
 **Senior Embedded Software Developer — Automotive** · Bangalore, India
 
-5+ years building production-grade firmware for Tier-1 automotive clients and global OEMs including **Audi, BMW, Porsche, Volvo, Jaguar, and Lucid Motors**. I work on bare-metal C, AUTOSAR Classic BSW, and safety-critical software under ASPICE and ISO 26262.
+5+ years building production-grade firmware for Tier-1 automotive clients and global OEMs including **Audi, BMW, Porsche, Volvo, Jaguar, and Lucid Motors**. I work on bare-metal C, AUTOSAR Classic based BSW, Low level drivers with Board bringup, and safety-critical software under ASPICE and ISO 26262.
 
 > *Read more, write less, ship better. Strong code starts with strong reading — so type slow, read fast, and think first.*
 
@@ -60,6 +60,9 @@ Outside of work, I build side projects to deepen my understanding of areas adjac
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-personal%20projects-8CC500?style=flat)
 ![Zephyr](https://img.shields.io/badge/Zephyr%20RTOS-personal%20projects-7B2CBF?style=flat)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-embedded%20products-FF6B35?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-home%20automation-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics%20%26%20Hardware-deep%20reading-455A64?style=flat)
 
 ---
 
