@@ -4,8 +4,7 @@
 
 5+ years building production-grade firmware for Tier-1 automotive clients and global OEMs including **Audi, BMW, Porsche, Volvo, Jaguar, and Lucid Motors**. I work on bare-metal C, AUTOSAR Classic BSW, and safety-critical software under ASPICE and ISO 26262.
 
-> *10% programming and 90% Reading .*> *Read more, write less, ship better. Strong code starts with strong reading — so type slow, read fast, and think first.*
-
+> *Read more, write less, ship better. Strong code starts with strong reading — so type slow, read fast, and think first.*
 
 ---
 
