@@ -55,13 +55,14 @@ S32 Design Studio · AURIX IDE · IAR Embedded Workbench · Keil · STM32CubeIDE
 ---
 
 ### 🧪 Personal Exploration
-
-Outside of work, I build side projects to deepen my understanding of areas adjacent to automotive embedded — particularly RTOS internals and modern embedded ecosystems:
-
+ 
+Outside of work — tinkering, tear-downs, and continuous reading to stay sharp on the broader embedded world:
+ 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-personal%20projects-8CC500?style=flat)
 ![Zephyr](https://img.shields.io/badge/Zephyr%20RTOS-personal%20projects-7B2CBF?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-embedded%20products-FF6B35?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-home%20automation-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![ESP32 & Arduino](https://img.shields.io/badge/ESP32%20Arduino-IOT%20automation-A22846?style=flat&logo=ESP32%20Arduino&logoColor=white)
 ![Electronics](https://img.shields.io/badge/Electronics%20%26%20Hardware-deep%20reading-455A64?style=flat)
 
 ---
