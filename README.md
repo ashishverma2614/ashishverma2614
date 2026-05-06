@@ -17,6 +17,7 @@ Interactive HTML slide decks I built while learning. Open-source — feel free t
 | 🌐 **Automotive Ethernet — Learning Guide** | [Open](https://ashishverma2614.github.io/Automotive_Ethernet_Learning/) |
 | 🌐 **Automotive Ethernet — Training** | [Open](https://ashishverma2614.github.io/Automotive-Ethernet-Training-/) |
 | ⚙️ **Classic AUTOSAR — Beginner Overview** | [Open](https://ashishverma2614.github.io/Classic-Autosar-overview-for-beginners/) |
+| ⚙️ **FreeRTOS — Beginner Overview** | [In-Progress]( ) |
 
 ---
 
